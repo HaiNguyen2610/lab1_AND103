@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277593987904",
+    "project_id": "restapi-f3d3f",
+    "storage_bucket": "restapi-f3d3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277593987904:android:0059c4c923416804f8f8a5",
+        "android_client_info": {
+          "package_name": "fpoly.hainxph46327.demoapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH_tgAAi2gbHnnUy2vHbT3ewFOjzyY5Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
